@@ -1,6 +1,6 @@
 # Visita Guiada - Regulação Médica Ambulatorial
 
-##Aprendendo antes de usar...
+## Aprendendo antes de usar...
 A visita guiada é uma ferramenta intuitiva e educativa de treinamento em regulação médica ambulatorial.
 
 ## Descrição
