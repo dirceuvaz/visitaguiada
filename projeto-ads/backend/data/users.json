@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "username": "Administrador Root",
+    "email": "admin@example.com",
+    "password": "adm",
+    "role": "admin",
+    "cpf": "12345678900",
+    "crm": "12345",
+    "especialidade": "Administração",
+    "idade": 35,
+    "approved": true
+  },
+  {
+    "username": "Antonio Apolo Moreira Cunha",
+    "email": "apolo.cunha@gmail.com",
+    "password": "123",
+    "cpf": "027.999.173-99",
+    "crm": "123355",
+    "especialidade": "Psicologia",
+    "idade": "22",
+    "role": "admin",
+    "approved": true,
+    "id": 2,
+    "blocked": false
+  },
+  {
+    "username": "Antonio Gabriel",
+    "email": "gabriel@gmail.com",
+    "password": "123",
+    "cpf": "099.999.777-88",
+    "crm": "123333",
+    "especialidade": "Dentista",
+    "idade": "25",
+    "role": "user",
+    "approved": true,
+    "id": 3
+  },
+  {
+    "username": "Alice Moreira",
+    "email": "alice@gmail.com",
+    "password": "alice123",
+    "cpf": "099.999.777-18",
+    "crm": "123233",
+    "especialidade": "Psicologia",
+    "idade": "18",
+    "role": "user",
+    "approved": true,
+    "id": 4
+  },
+  {
+    "username": "Alexandre Almeida Verçoza",
+    "email": "alexandre.almeida@gmail.com",
+    "password": "ale123",
+    "cpf": "123.123.123.12",
+    "crm": "123123",
+    "especialidade": "Biotecnologia",
+    "idade": "45",
+    "role": "user",
+    "approved": true,
+    "id": 5
+  },
+  {
+    "username": "Izabelle Oliveira",
+    "email": "izabelle.oliveira@gmail.com",
+    "password": "123",
+    "cpf": "456.456.456.55",
+    "crm": "12234567",
+    "especialidade": "Psiquiatra",
+    "idade": "28",
+    "role": "user",
+    "approved": true,
+    "id": 6,
+    "blocked": false
+  },
+  {
+    "username": "Izabelle Oliveira",
+    "email": "izabelle.oliveira@gmail.com",
+    "password": "iza123",
+    "cpf": "456.456.456.55",
+    "crm": "12234567",
+    "especialidade": "Psiquiatra",
+    "idade": "28",
+    "role": "user",
+    "approved": true,
+    "id": 7
+  },
+  {
+    "username": "Maria Leticia",
+    "email": "maria@gmail.com",
+    "password": "123",
+    "cpf": "123.123.123.12",
+    "crm": "123123",
+    "especialidade": "Psicologia",
+    "idade": "45",
+    "role": "user",
+    "approved": true,
+    "blocked": true,
+    "id": 8
+  }
+]
